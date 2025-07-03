@@ -42,10 +42,10 @@
 | Bits      | 3     | 3  | 7       |
 
 ## Registers
-The CPU has 8 registers included in the register file 
-We have 6 general purpose registers (Saved and Temporary)
-location address (la) - hold the address for branch and jump instructions
-$zero - always holds the value 0
+The CPU has 8 registers included in the register file<br>
+We have 6 general purpose registers (saved and temporary)<br>
+Location address (`$la`) — holds the address for branch and jump instructions<br>
+`$zero` — always holds the value 0
 
 | Name  | Number | Use              |
 |---------|---------|-------------------|
